@@ -12,4 +12,4 @@ def profile():                       #? A wrapped function is a "view function"
         "is_online": True,
     }
     
-    return me                        #? Returning the dict from a view finction converts it to a JSON! 
+    return me                        #? Returning the dict from a view finction converts it to a JSON!
